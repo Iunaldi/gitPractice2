@@ -5,6 +5,7 @@ public class HappyBirthday {
         
         System.out.println("Happy Birdday");
         System.out.println("Happy Birdday");
+        System.out.println("Happy Birdday");
 
         String str=" ";
 
